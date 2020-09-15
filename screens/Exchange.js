@@ -54,7 +54,7 @@ export default class Exchange extends Component{
         <TextInput
           style={styles.formTextInput}
           placeholder ={"Item Name"}
-          maxLength ={8}
+          maxLength ={20}
           onChangeText={(text)=>{
             this.setState({
               itemName: text
