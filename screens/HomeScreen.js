@@ -28,7 +28,6 @@ export default class HomeScreen extends Component{
   keyExtractor = (item, index) => index.toString()
 
   renderItem = ( {item, i} ) =>{
-    console.log(item.item_name);
     return (
       <ListItem
         key={i}
