@@ -5,8 +5,8 @@ import { View, Text, StyeSheet } from 'react-native';
 const MyHeader = props => {
   return (
     <Header
-      centerComponent={{ text: props.title, style: { color: '#90A5A9', fontSize:20,fontWeight:"bold", } }}
-      backgroundColor = "#eaf8fe"
+      centerComponent={{ text: props.title, style: { color: '#7d21dc', fontSize:20,fontWeight:"bold", } }}
+      backgroundColor = "#e3eb45"
     />
   );
 };
