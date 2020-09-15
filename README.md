@@ -1,2 +1,2 @@
-# barter - system
+# Barter - system
 BY ARAVIND
